@@ -4,6 +4,7 @@ public class ClassLevelArray	{
 	//int z[]=new int[5];
 	//int z[]={10,20,30,40};
 	int z[];
+	
 		
 	public static void main(String...s)	{
 		System.out.println("Enter the size of array");
